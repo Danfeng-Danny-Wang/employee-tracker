@@ -1,0 +1,16 @@
+{
+  "name": "02-challenge",
+  "version": "1.0.0",
+  "description": "Challenge for MySql Databse Module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danny W",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.5.2"
+  }
+}
